@@ -1,0 +1,15 @@
+matrix:
+  include:
+    - os: linux
+      dist: trusty
+      sudo: required
+      services: docker
+    - os: osx
+before_install:
+  - build/travis-setup.sh
+script:
+  - powershell -Command "Invoke-Pester"
+
+
+
+  
