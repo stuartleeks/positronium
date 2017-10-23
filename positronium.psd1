@@ -66,7 +66,7 @@
     # NestedModules = @()
     
     # Functions to export from this module
-    FunctionsToExport = 'ConvertFrom-Tabular, ConvertFrom-Base64, ConvertTo-Base64'
+    FunctionsToExport = @('ConvertFrom-Tabular', 'ConvertFrom-Base64', 'ConvertTo-Base64')
     
     # Cmdlets to export from this module
     CmdletsToExport = ''
