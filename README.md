@@ -17,6 +17,13 @@ See the [documentation](docs/README.md) for details on the commands in positroni
 
 ## Changelog
 
+### v0.0.2 (Published 2017-10-23)
+
+Add ConvertFrom-Base64 and ConvertTo-Base64
+
+Add comment help (you can now `Get-Help ConvertFrom-Base64`)
+
+
 ### v0.0.1 (Published 2017-10-23)
 
 Initial version (`ConvertFrom-Tabular`)
