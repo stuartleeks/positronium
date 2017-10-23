@@ -12,7 +12,7 @@
     RootModule = 'positronium'
     
     # Version number of this module.
-    ModuleVersion = '0.0.3'
+    ModuleVersion = '0.0.4'
     
     # ID used to uniquely identify this module
     GUID = '735ecf74-6762-41c4-91f3-a3967a98cd1a'

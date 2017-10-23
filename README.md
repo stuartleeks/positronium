@@ -17,7 +17,7 @@ See the [documentation](docs/README.md) for details on the commands in positroni
 
 ## Changelog
 
-### v0.0.3 (Published 2017-10-23)
+### v0.0.4 (Published 2017-10-23)
 
 Add ConvertFrom-Base64 and ConvertTo-Base64
 
