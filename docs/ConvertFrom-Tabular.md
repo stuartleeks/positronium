@@ -7,7 +7,9 @@ Column headers are turned into property names for objects that are streamed on t
 
 ## Parameters
 
-TBD
+|Name|Description|
+|-|-|
+|input|The output from the CLI to parse|
 
 ## Example
 
